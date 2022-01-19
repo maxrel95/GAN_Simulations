@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 """
 this is the main script for GAN Simulation project.
 First the code is implemented as a script and then would be rewritten in a best format
@@ -13,3 +14,4 @@ First the code is implemented as a script and then would be rewritten in a best 
 ## train the model
 
 ## use the model
+
